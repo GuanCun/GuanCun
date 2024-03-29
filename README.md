@@ -8,5 +8,5 @@
 
 #### 👋 Hello, I'm GuanCun 👋
 
-> I'm a front-end developer
+> I'm a front-end developer.  
 > currently focusing on the study of front-end engineering and learning English.
