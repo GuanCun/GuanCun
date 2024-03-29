@@ -1,20 +1,12 @@
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <h1 align="center">👋 Hi there, I'm GuanCun 👋</h1>
-      <p align="center">
-        <strong>I'm a front-end developer currently deepening my understanding of front-end engineering and learning English.</strong>
-      </p>
-      <ul>
-        <li>💬 Ask me about: Vue, JavaScript, Web Development</li>
-        <li>🥅 2024 Goals: Work on some fun projects and contribute to open source</li>
-        <li>⚡ Fun fact: I enjoy browsing V2EX, reading Ruan Yifeng's blogs, and keeping up with new tech trends</li>
-      </ul>
-    </td>
-    <td valign="top" width="50%">
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        ![GuanCun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GuanCun&count_private=true&show_icons=true&theme=blueberry)
-      </a>
-    </td>
-  </tr>
-</table>
+<a href="https://github.com/justjavac#gh-light-mode-only">
+  <img align="right" src="https://github-readme-stats-one-mu-82.vercel.app/api?username=GuanCun&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true#gh-light-mode-only" alt="GuanCun's GitHub Stats" />
+</a>
+
+<a href="https://github.com/justjavac#gh-dark-mode-only">
+  <img align="right" src="https://github-readme-stats-one-mu-82.vercel.app/api?username=GuanCun&show_icons=true&hide_title=true&theme=blueberry#gh-dark-mode-only" alt="GuanCun's GitHub Stats" />
+</a>
+
+#### 👋 Hello, I'm GuanCun 👋
+
+> I'm a front-end developer
+> currently focusing on the study of front-end engineering and learning English.
